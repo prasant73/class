@@ -1,0 +1,128 @@
+Python
+    programming language.
+
+front end - html, markdown, css, js
+middleware - http - json, xml, protobuf,
+backend - 
+    logic of the code
+    C, C++, Java, Javascript, Ruby, Python etc
+
+translators - 
+    translate the high level code to the machine language / OS level
+    2 types
+        compilers
+        interpreters
+    1. read the code.
+    2. translate the code.
+    3. execute the code.(optional)
+
+0, 1
+
+variables
+    primitive types
+        numbers
+            integers
+            decimals - floats
+            complex numbers
+        strings
+            characters - string of length 1 - "a", "b", "1"
+            strings - "string is a data type"
+        booleans
+            True, False
+        none
+            None
+
+    Python specific
+        lists - 
+            [] -> empty list
+            ["abc", 1, 1.2, 0, True, [1,2,3], None]
+            mutable
+            [1]
+
+        tuples
+            () -> empty tuple
+            ("abc", 1, 1.2, 0, True, [1,2,3])
+            immutable
+            (1,)
+
+        sets
+            {}
+        dictionaries
+            {"key" : "value"}
+
+functions
+
+
+
+Writing code
+    IDLE
+    Console
+    notepad or any text editor
+    IDE - Integrated development Environment
+
+
+
+
+
+inbuilt data structures - arrays, lists, tuples, sets, dictionaries
+
+defined ds.
+    2-d array,
+    martix,
+    nodes
+    linked list, advanced
+    stack,
+    queue, dequeue
+    hash tables
+    binary tree
+    bst
+    heaps
+    graphs
+
+algo design
+    search
+    sort
+    insert
+    update
+    delete
+
+    characterstics
+        unambiguous
+        input
+        output
+        finite
+        feasable
+        independent
+
+algo analysis
+    big O
+
+algo patterns/ methodology
+    divide and conquer
+    recursion
+    backtracking
+    tree traversals
+
+    sorting algorithms
+    search algorithms
+    graph algorithms
+
+algo classes
+amortized analysis
+algo justifications
+
+
+# function
+def add_num(a, b):
+    return a + b
+
+# input
+a = int(input("Enter a : "))
+b = int(input("Enter b : "))
+
+# driver code
+print(add_num(a, b))
+
+
+1_leap_year.py
+2_palindrome_num.py
